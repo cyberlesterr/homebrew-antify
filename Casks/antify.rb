@@ -1,6 +1,6 @@
 cask "antify" do
-  version "0.0.37"
-  sha256 "d32b56509d4126f5e70bf2b6f24c23b092babad0fcd3a7d344fd491149386571"
+  version "0.0.39"
+  sha256 "75ffd80df6333a8d7156e6724bec1fedf2a14050b5770b53783ea4159d5b8581"
 
   url "https://r2.antifyapp.com/releases/v#{version}/Antify.dmg"
   name "Antify"
