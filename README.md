@@ -5,7 +5,7 @@ Per-app transparent proxy for macOS. Route specific apps through SOCKS5/HTTP pro
 ## Install
 
 ```bash
-brew tap free-lester/antify
+brew tap cyberlesterr/antify
 brew install --cask antify
 ```
 
@@ -21,7 +21,7 @@ brew upgrade --greedy --cask antify
 
 ```bash
 brew uninstall --cask antify
-brew untap free-lester/antify
+brew untap cyberlesterr/antify
 ```
 
 ## About
